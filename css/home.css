@@ -1,0 +1,10 @@
+/* fix weird styling when loading page */
+
+.game-card .thumbnail-2d-container.shimmer {
+	aspect-ratio: 1;
+	height: auto;
+}
+
+.btr-game-hover-fix {
+	transition-delay: 0s !important;
+}
