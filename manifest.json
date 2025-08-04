@@ -1,11 +1,11 @@
 {
 	"manifest_version": 3,
 
-	"name": "BTRoblox - BG Music Edition",
-	"short_name": "BTRoblox",
+	"name": "BTRoblox - FORKK",
+	"short_name": "BTRoblox-FORK",
 	"description": "Enhance your Roblox experience! - This is a patched version for player profiles",
-	"version": "3.6.23",
-	"author": "BGMusic",
+	"version": "3.6.24",
+	"author": "BG Music",
 
 	"minimum_chrome_version": "96",
 	"incognito": "split",
