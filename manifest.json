@@ -1,9 +1,9 @@
 {
 	"manifest_version": 3,
 
-	"name": "BTRoblox - Fork",
+	"name": "BTRoblox - BG Music Edition",
 	"short_name": "BTRoblox",
-	"description": "Enhance your Roblox experience! - Fix for player profiles",
+	"description": "Enhance your Roblox experience! - This is a patched version for player profiles",
 	"version": "3.6.23",
 	"author": "BGMusic",
 
@@ -32,7 +32,8 @@
 		"notifications",
 		"contextMenus",
 		"scripting",
-		"storage"
+		"storage",
+		"alarms"
 	],
 
 	"web_accessible_resources": [
